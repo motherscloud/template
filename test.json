@@ -1,0 +1,36 @@
+[
+{
+Work_id: 8,
+Work_title: "Config Backup",
+Work_description: "Backup the configuration",
+requirementReqId: 8,
+requirement: {
+Req_id: 8,
+Req_title: "Firewall configuration",
+Req_description: "Install and maintain a firewall configuration to protect cardholder data",
+goalGoalId: 2,
+goal: {
+Goal_id: 2,
+Goal_title: "Secure Data",
+Goal_description: "Protect Cardholder Data"
+}
+}
+},
+{
+Work_id: 9,
+Work_title: "Config Tapesp",
+Work_description: "Backup the configuration",
+requirementReqId: 8,
+requirement: {
+Req_id: 8,
+Req_title: "Firewall configuration",
+Req_description: "Install and maintain a firewall configuration to protect cardholder data",
+goalGoalId: 2,
+goal: {
+Goal_id: 2,
+Goal_title: "Secure Data",
+Goal_description: "Protect Cardholder Data"
+}
+}
+}
+]
